@@ -62,9 +62,14 @@ See the theme [README][Just the Docs README] for how to use the theme as a gem w
 - Yian Wang: Friday 11:00 – 12:00 am (zoom), additional 2 hours OH before coding problem in long HW is due
 
 
+### Code of Conduct
 
+Just the Docs is committed to fostering a welcoming community.
+
+[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
 
 ----
+
 [^1]: The [source file for this page] uses all three markup languages.
 
 [^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
