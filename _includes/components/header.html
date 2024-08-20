@@ -4,6 +4,14 @@
   {% else %}
     <div></div>
   {% endif %}
+
+  <!-- Logo section -->
+  <div class="logo-container">
+    <a href="{{ site.baseurl | default: '/' }}">
+      <img src="{{ site.baseurl }}/assets/images/uilogo.png" alt="Website Logo" class="site-logo">
+    </a>
+  </div>
+
   {% include header_custom.html %}
   {% if site.aux_links %}
     {% include components/aux_nav.html %}
