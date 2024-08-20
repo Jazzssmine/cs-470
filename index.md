@@ -24,7 +24,7 @@ Jekyll builds this Just the Docs theme docs website using the theme itself. Thes
 
 Browse the docs to learn more about how to use this theme. -->
 
-## Getting started
+## Course Objective
 
 The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
 
@@ -45,7 +45,7 @@ Other than that, you're free to customize sites that you create with the templat
 {: .note }
 See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
 
-## About the project
+## Basic Information
 
 <u>Classes</u>: Wed, Fri 12:30 pm – 1:45 pm
 
@@ -65,6 +65,9 @@ See the theme [README][Just the Docs README] for how to use the theme as a gem w
 
 
 ----
+[^1]: The [source file for this page] uses all three markup languages.
+
+[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Jekyll]: https://jekyllrb.com
 [Markdown]: https://daringfireball.net/projects/markdown/
