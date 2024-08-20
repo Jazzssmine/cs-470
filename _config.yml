@@ -131,6 +131,12 @@ liquid:
    error_mode: strict
    strict_filters: true
 
+---
+layout: default
+title: MIGRATION
+nav_exclude: true
+---
+
 # Footer content
 # appears at the bottom of every page's main content
 
