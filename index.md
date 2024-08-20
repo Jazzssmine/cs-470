@@ -15,8 +15,6 @@ permalink: /
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }-->
 <!-- [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
----
-
 <!-- {: .warning }
 > This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
 
@@ -49,7 +47,21 @@ See the theme [README][Just the Docs README] for how to use the theme as a gem w
 
 ## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com).
+<u>Classes</u>: Wed, Fri 12:30 pm – 1:45 pm
+
+<u>Location</u>: Urbana & Chicago
+
+<u>Instructor</u>: Hari Sundaram, [hs1@illinois.edu](hs1@illinois.edu)
+
+<u>TA</u>: Yian Wang, [yian3@illinois.edu](yian3@illinois.edu)
+
+<u>Office hours</u>:
+
+- Hari Sundaram: Wednesday 11:00 – 12:00 am (zoom)
+
+- Yian Wang: Friday 11:00 – 12:00 am (zoom)
+
+            2 hours before coding problem long HW is due
 
 ### License
 
